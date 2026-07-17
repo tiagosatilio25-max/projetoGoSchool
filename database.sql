@@ -82,3 +82,7 @@ INSERT INTO Motoristas (nome_motorista, cpf_motorista, senha_motorista, telefone
 ('Roberto Carlos', '666.666.666-66', 'hash_senha_m1', '11966666666', '12345678900', 'LIC-001', 'Fiat Ducato', 'ABC-1234', 'link_foto_m1'),
 ('Fernanda Lima', '777.777.777-77', 'hash_senha_m2', '11977777777', '09876543211', 'LIC-002', 'Renault Master', 'XYZ-9876', 'link_foto_m2'),
 ('Ricardo Gomes', '888.888.888-88', 'hash_senha_m3', '11988888888', '11223344556', 'LIC-003', 'Mercedes Sprinter', 'DEF-5678', 'link_foto_m3');
+
+--  teste do select
+
+-- select * from Escolas;
